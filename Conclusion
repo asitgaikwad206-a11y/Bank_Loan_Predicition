@@ -1,0 +1,4 @@
+🏁 Conclusion
+
+This XGBoost-based ML model effectively predicts loan approval outcomes with over 83% accuracy and 0.9 ROC-AUC.
+It can be deployed in banking systems to automate decision-making and reduce manual screening.
