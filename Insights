@@ -1,0 +1,7 @@
+🧠 Insights
+
+Model achieves high recall (93%), minimizing the risk of rejecting genuine applicants.
+
+Slight trade-off in precision (84%) indicates a few false approvals — adjustable via threshold tuning.
+
+Perfect balance between accuracy, recall, and AUC for a real-world banking use case.
